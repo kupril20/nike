@@ -1,0 +1,214 @@
+body  {background-color : black;
+		background-size: cover;
+		background-repeat: no-repeat;
+		margin-top: auto;
+	}
+h1 {font-family: serif; text-align: left;
+		text-shadow: 2px 3px 2px black; color: white;
+		font-size: 64px;
+		margin-left:2%;}
+ul {
+  
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  margin-top: 0;
+  background-color: #363636;
+  
+}
+li a {
+	float: left;
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 21px;
+ text-shadow: 2px 3px 2px black; color: white;
+ text-transform: uppercase;
+ font-family: Arial;
+}
+li a:hover {
+  background-color: red;
+}
+.active {
+  background-color: #4CAF50;
+}
+.post1 {
+    border:0px solid white;
+	padding: 25px;
+	color: white;
+	text-align: left;
+	font-size: 25px;
+	font-family: arial;
+	margin-left: 10px;
+}
+.post2 {
+    
+	border:0px solid white;
+	padding: 140px;
+	width: 120px;
+
+}
+#tb1 {
+	border: 0px solid white;
+	margin: auto;
+
+}
+.post3 {
+   	border:0px solid black;
+	width: 710px;
+	height: 400px;
+	color: black;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+}
+#tb2 {
+	border: 0px solid white;
+	margin: 0 auto;
+
+}
+#bg1 { background-color:black;
+		padding: auto; 
+		height: 750px;}
+#bg2 { background-color: white;
+		padding: auto; 
+		height: 950px;}
+#bg3 { 	padding: auto; 
+		height: auto;
+}
+#bg4 { background-color: white;
+		height: 420px;
+		}
+#bg4 td { padding: auto;
+		border:0px solid white;
+		font-size: 25px;
+		font-family: arial;
+		color: black;
+		margin: 0 auto
+	}
+#bg4 tr { margin: 0 auto
+	}
+
+#bg5 { margin: 0 auto;
+	background-color: #696969;
+		background-size: auto;
+		height: 420px;
+	}
+#footer td { margin: 0 auto;
+	border: 0px solid red;	
+	}
+
+#tb3 {
+	border: 0px solid red;
+	margin: 0 auto;
+	
+
+}
+#bg5 img {
+	margin-left: 55px;
+	float: : left;
+	margin: 0 auto;
+}
+#bg5 td {
+	float: : left;
+	color :white;
+	font-size: 25px;
+	text-align: right;
+	margin: 0 auto;
+}
+.post5 img {
+   	border:0px solid white;
+	color: black;
+	float: left;
+	margin: 0 auto;
+
+}
+#im {font-size: 150px;}
+#tb3 a{
+ 	text-decoration: none; color:black;
+ }
+#tb3 a:hover {
+  color: red;}
+#footer {
+    height:180px;
+    background:black;
+    color:#fff;
+    margin:auto;
+
+ }
+ .tb6 {
+	border: 0px solid red;
+	margin: 0 auto;
+	width: 100%
+}
+ #footer tr td {
+    text-align: left;
+    margin:auto;
+    padding : 10px;
+ }
+ .khusus {
+ 	font-size: 20px;
+ 	font-family: arial;
+ 	display: inline-block; 
+ }
+.static {
+		position: static;
+		
+
+	}
+.static a{
+			color :white;
+	}
+	div.static {
+		position: fixed;
+		bottom: 1px;
+		right: 25px;
+}
+
+#footer a {
+    color:#fff;
+ }
+ #up {display: block}
+ #head {padding:auto;
+ 	margin : 0 auto;}
+ input[type=text], select, textarea {
+  width: 100%;
+  height: 30px;
+   /* Full width */
+   /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 2px; /* Add a top margin */
+  margin-bottom: 2px; /* Bottom margin */
+ /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: red;
+  color: white;
+  width: 100%;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 30px;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: orange;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #201D1F;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bawah {text-align: center;}
+
